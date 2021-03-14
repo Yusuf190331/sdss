@@ -1,0 +1,28 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Spanik#9101'in namı değer temiz altyapısı.",
+  "main": "chimp.js",
+  "scripts": {
+    "watch": "nodemon fsbılısım.js",
+    "start": "node fsbılısım.js"
+  },
+  "dependencies": {
+    "dctr-antispam.js": "^0.1.1",
+    "discord-logs": "^1.8.2",
+    "discord.js": "^12.5.0",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "spanık",
+    "fsbılısım"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
